@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/seneca1?theme=light&font=baloo&ext=contest)
+![](https://leetcard.jacoblin.cool/seneca1?ext=heatmap)
 <!--
 **lyuucik/lyuucik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
